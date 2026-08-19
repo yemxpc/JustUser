@@ -1,1 +1,0 @@
-/usr/bin/c++ -Wl,--dependency-file=CMakeFiles/justuser.dir/link.d CMakeFiles/justuser.dir/src/main.cpp.o -o justuser  /usr/lib/x86_64-linux-gnu/libcurl.so.4.8.0

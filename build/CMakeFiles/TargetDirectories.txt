@@ -1,3 +1,0 @@
-/home/bowan/Belgeler/JustUser/build/CMakeFiles/justuser.dir
-/home/bowan/Belgeler/JustUser/build/CMakeFiles/edit_cache.dir
-/home/bowan/Belgeler/JustUser/build/CMakeFiles/rebuild_cache.dir
