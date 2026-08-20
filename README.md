@@ -25,7 +25,7 @@ You can run the pre-compiled binary directly without compiling:
 
 ```bash
 # Clone the repository
-git clone [https://github.com/kullanici_adin/JustUser.git](https://github.com/yemxpc/JustUser.git)
+git clone [https://github.com/yemxpc/JustUser.git](https://github.com/yemxpc/JustUser.git)
 cd JustUser
 
 # Run executable
